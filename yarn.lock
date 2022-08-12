@@ -1383,10 +1383,6 @@
   version "0.0.51"
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-0.0.51.tgz#cfd70924a25a3fd32b218e5e420e6897e1ac4f40"
 
-"@types/events@*":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@types/events/-/events-3.0.0.tgz#2862f3f58a9a7f7c3e78d79f130dd4d71c25c2a7"
-
 "@types/express-serve-static-core@^4.17.18":
   version "4.17.30"
   resolved "https://registry.yarnpkg.com/@types/express-serve-static-core/-/express-serve-static-core-4.17.30.tgz#0f2f99617fa8f9696170c46152ccf7500b34ac04"
@@ -1404,14 +1400,7 @@
     "@types/qs" "*"
     "@types/serve-static" "*"
 
-"@types/formidable@1.0.31":
-  version "1.0.31"
-  resolved "https://registry.yarnpkg.com/@types/formidable/-/formidable-1.0.31.tgz#274f9dc2d0a1a9ce1feef48c24ca0859e7ec947b"
-  dependencies:
-    "@types/events" "*"
-    "@types/node" "*"
-
-"@types/formidable@^2.0.4":
+"@types/formidable@2.0.5", "@types/formidable@^2.0.4":
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/@types/formidable/-/formidable-2.0.5.tgz#e54e31d242ef750ac2d05aa163fa0274c8e6ef9c"
   dependencies:
@@ -3513,10 +3502,6 @@ form-data@^4.0.0:
     asynckit "^0.4.0"
     combined-stream "^1.0.8"
     mime-types "^2.1.12"
-
-formidable@^1.2.1:
-  version "1.2.6"
-  resolved "https://registry.yarnpkg.com/formidable/-/formidable-1.2.6.tgz#d2a51d60162bbc9b4a055d8457a7c75315d1a168"
 
 formidable@^2.0.1:
   version "2.0.1"
