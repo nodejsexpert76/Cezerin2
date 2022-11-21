@@ -142,7 +142,7 @@
     "@typescript-eslint/parser": "^5.33.0",
     "babel-loader": "^8.2.5",
     "clean-webpack-plugin": "^4.0.0",
-    "concurrently": "^7.3.0",
+    "concurrently": "^7.6.0",
     "core-js": "^3.24.1",
     "css-loader": "^6.7.1",
     "cssnano": "^5.1.12",
