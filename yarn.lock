@@ -3420,9 +3420,9 @@ filter-obj@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/filter-obj/-/filter-obj-1.1.0.tgz#9b311112bc6c6127a16e016c6c5d7f19e0805c5b"
 
-final-form@^4.20.7:
-  version "4.20.7"
-  resolved "https://registry.yarnpkg.com/final-form/-/final-form-4.20.7.tgz#e7e2eb5fd952951d4fe6153d46043da2d68b207e"
+final-form@^4.20.9:
+  version "4.20.9"
+  resolved "https://registry.yarnpkg.com/final-form/-/final-form-4.20.9.tgz#647b459f8c504d77ec8f6e280015ab172982af2f"
   dependencies:
     "@babel/runtime" "^7.10.0"
 
